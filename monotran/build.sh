@@ -1,0 +1,1 @@
+gfortran monotran.f90 -o monotran.bin
